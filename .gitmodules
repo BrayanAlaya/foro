@@ -1,0 +1,6 @@
+[submodule "front-angular-foro"]
+	path = front-angular-foro
+	url = https://github.com/BrayanAlaya/front-angular-foro
+[submodule "api-rest-node-mongo-foro"]
+	path = api-rest-node-mongo-foro
+	url = https://github.com/BrayanAlaya/api-rest-node-mongo-foro
